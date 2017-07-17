@@ -1,0 +1,12 @@
+Source: ros-indigo-cob-supported-robots
+Section: misc
+Priority: extra
+Maintainer: Nadia Hammoudeh Garcia <nhg@ipa.fhg.de>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://ros.org/wiki/cob_supported_robots
+Standards-Version: 3.9.2
+
+Package: ros-indigo-cob-supported-robots
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: This package contains the list of supported robots within the care-o-bot family.
