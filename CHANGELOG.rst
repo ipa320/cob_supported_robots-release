@@ -2,6 +2,37 @@
 Changelog for package cob_supported_robots
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.8 (2018-01-07)
+------------------
+* Merge pull request `#13 <https://github.com/ipa320/cob_supported_robots/issues/13>`_ from ipa320/indigo_release_candidate
+  Indigo release candidate
+* Merge pull request `#12 <https://github.com/ipa320/cob_supported_robots/issues/12>`_ from ipa-fxm/add_cob4-16_uh
+  add cob4-16 uh
+* add cob4-16 uh
+* Merge pull request `#11 <https://github.com/ipa320/cob_supported_robots/issues/11>`_ from ipa-fxm/move_cob4-2
+  move cob4-2 to unity-robotics
+* move cob4-2 to unity-robotics
+* Merge pull request `#10 <https://github.com/ipa320/cob_supported_robots/issues/10>`_ from ipa-fxm/update_maintainer
+  update maintainer
+* update maintainer
+* Merge pull request `#6 <https://github.com/ipa320/cob_supported_robots/issues/6>`_ from ipa-fxm/APACHE_license
+  use license apache 2.0
+* Merge pull request `#9 <https://github.com/ipa320/cob_supported_robots/issues/9>`_ from ipa-fxm/travis_extensions
+  Travis extensions
+* add debian jobs
+* remove jade jobs
+* Merge pull request `#7 <https://github.com/ipa320/cob_supported_robots/issues/7>`_ from ipa320/ipa-fxm-cob4-11-serodi
+  add cob4-11 serodi
+* Merge branch 'indigo_dev' into ipa-fxm-cob4-11-serodi
+* Merge pull request `#8 <https://github.com/ipa320/cob_supported_robots/issues/8>`_ from ipa-fmw/feature/cob4-10-tlabs
+  add initial config for cob4-10 tlabs
+* add initial config for cob4-10
+* add cob4-11 serodi
+* Update PULL_REQUEST_TEMPLATE.md
+* add pull request template
+* use license apache 2.0
+* Contributors: Felix Messmer, Jannik Abbenseth, cob4-10, ipa-fxm, ipa-uhr-mk
+
 0.6.7 (2017-07-17)
 ------------------
 * Merge pull request `#5 <https://github.com/ipa320/cob_supported_robots/issues/5>`_ from ipa-nhg/cob4-8
