@@ -4,7 +4,6 @@ project(cob_supported_robots)
 find_package(catkin REQUIRED)
 
 set(robotlist
-    cob4-2
     cob4-3
     cob4-4
     cob4-5
@@ -12,6 +11,9 @@ set(robotlist
     cob4-7
     cob4-8
     cob4-9
+    cob4-10
+    cob4-11
+    cob4-16
     raw3-1
     raw3-3
     raw3-5
