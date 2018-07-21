@@ -2,6 +2,17 @@
 Changelog for package cob_supported_robots
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.9 (2018-07-21)
+------------------
+* update maintainer
+* Merge pull request `#16 <https://github.com/ipa320/cob_supported_robots/issues/16>`_ from ipa-fxm/add_cob4-13_cardiff
+  add cob4-13 cardiff
+* Merge pull request `#15 <https://github.com/ipa320/cob_supported_robots/issues/15>`_ from ipa-fxm/add_cob4-18_323
+  add cob4-18 323
+* add cob4-13 cardiff
+* add cob4-18 323
+* Contributors: Felix Messmer, Florian Weisshardt, fmessmer, ipa-fxm
+
 0.6.8 (2018-01-07)
 ------------------
 * Merge pull request `#13 <https://github.com/ipa320/cob_supported_robots/issues/13>`_ from ipa320/indigo_release_candidate
