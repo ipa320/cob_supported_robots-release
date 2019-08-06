@@ -1,3 +1,26 @@
+## cob_supported_robots (kinetic) - 0.6.12-1
+
+The packages in the `cob_supported_robots` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release cob_supported_robots --rosdistro kinetic` on `Tue, 06 Aug 2019 08:56:40 -0000`
+
+The `cob_supported_robots` package was released.
+
+Version of package(s) in repository `cob_supported_robots`:
+
+- upstream repository: https://github.com/ipa320/cob_supported_robots.git
+- release repository: https://github.com/ipa320/cob_supported_robots-release.git
+- rosdistro version: `0.6.11-0`
+- old version: `0.6.11-0`
+- new version: `0.6.12-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.12`
+- rosdep version: `0.15.2`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.40`
+
+
 ## cob_supported_robots (kinetic) - 0.6.11-0
 
 The packages in the `cob_supported_robots` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release cob_supported_robots --rosdistro kinetic` on `Fri, 05 Apr 2019 12:57:51 -0000`
