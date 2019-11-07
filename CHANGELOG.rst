@@ -2,6 +2,16 @@
 Changelog for package cob_supported_robots
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.13 (2019-11-07)
+-------------------
+* Merge pull request `#23 <https://github.com/ipa320/cob_supported_robots/issues/23>`_ from floweisshardt/migrate/travis_com
+  migrate to travis-ci.com
+* migrate to travis-ci.com
+* Merge pull request `#22 <https://github.com/ipa320/cob_supported_robots/issues/22>`_ from fmessmer/add_cob4-24
+  add cob4-24
+* add cob4-24
+* Contributors: Benjamin Maidel, Florian Weisshardt, floweisshardt, fmessmer
+
 0.6.12 (2019-08-06)
 -------------------
 * Merge pull request `#21 <https://github.com/ipa320/cob_supported_robots/issues/21>`_ from fmessmer/melodify
