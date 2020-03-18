@@ -17,7 +17,7 @@ set(robotlist
     cob4-16
     cob4-18
     cob4-20
-    cob4-22
+    cob4-23
     cob4-24
     cob4-25
     raw3-1
@@ -26,5 +26,5 @@ set(robotlist
 )
 
 catkin_package(
-    CFG_EXTRAS cob_supported_robots-extras.cmake
+    CFG_EXTRAS ${PROJECT_NAME}-extras.cmake
 )
