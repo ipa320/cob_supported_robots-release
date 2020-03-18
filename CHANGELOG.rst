@@ -2,6 +2,25 @@
 Changelog for package cob_supported_robots
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.14 (2020-03-18)
+-------------------
+* Merge pull request `#27 <https://github.com/ipa320/cob_supported_robots/issues/27>`_ from fmessmer/remove_cob4-22
+  remove cob4-22
+* remove cob4-22
+* Merge pull request `#26 <https://github.com/ipa320/cob_supported_robots/issues/26>`_ from HannesBachter/add_cob4-23
+  add cob4-23
+* add cob4-23
+* Merge pull request `#25 <https://github.com/ipa320/cob_supported_robots/issues/25>`_ from fmessmer/feature/python3_compatibility
+  [ci_updates] pylint + Python3 compatibility
+* activate pylint checks from feature branch
+* Merge pull request `#24 <https://github.com/ipa320/cob_supported_robots/issues/24>`_ from fmessmer/ci_updates
+  [travis] ci updates
+* sort travis.yml
+* add CATKIN_LINT=pedantic
+* update travis.yml
+* catkin_lint fixes
+* Contributors: Felix Messmer, fmessmer, hyb
+
 0.6.13 (2019-11-07)
 -------------------
 * Merge pull request `#23 <https://github.com/ipa320/cob_supported_robots/issues/23>`_ from floweisshardt/migrate/travis_com
