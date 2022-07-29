@@ -2,6 +2,14 @@
 Changelog for package cob_supported_robots
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.16 (2022-07-29)
+-------------------
+* Merge pull request `#29 <https://github.com/ipa320/cob_supported_robots/issues/29>`_ from pgehring/add_license
+  add LICENSE
+* add LICENSE
+* update travis config
+* Contributors: Felix Messmer, pgehring
+
 0.6.15 (2020-09-28)
 -------------------
 * Merge pull request `#28 <https://github.com/ipa320/cob_supported_robots/issues/28>`_ from fmessmer/test_noetic
