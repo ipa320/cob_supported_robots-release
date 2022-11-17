@@ -2,6 +2,17 @@
 Changelog for package cob_supported_robots
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.17 (2022-11-17)
+-------------------
+* fix travis badge
+* Merge pull request `#31 <https://github.com/ipa320/cob_supported_robots/issues/31>`_ from fmessmer/add_cob4-30_ostwestfalen
+  add cob4-30 ostwestfalen
+* add cob4-30 ostwestfalen
+* Merge pull request `#30 <https://github.com/ipa320/cob_supported_robots/issues/30>`_ from fmessmer/add_cob4-29_goettingen
+  add cob4-29 goettingen
+* add cob4-29 goettingen
+* Contributors: Felix Messmer, fmessmer
+
 0.6.16 (2022-07-29)
 -------------------
 * Merge pull request `#29 <https://github.com/ipa320/cob_supported_robots/issues/29>`_ from pgehring/add_license
