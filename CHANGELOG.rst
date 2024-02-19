@@ -2,6 +2,14 @@
 Changelog for package cob_supported_robots
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.18 (2024-02-19)
+-------------------
+* Merge pull request `#32 <https://github.com/ipa320/cob_supported_robots/issues/32>`_ from fmessmer/ci/gha
+  migrate ci to gha
+* migrate ci to gha
+* remove kinetic jobs
+* Contributors: Felix Messmer, fmessmer
+
 0.6.17 (2022-11-17)
 -------------------
 * fix travis badge
