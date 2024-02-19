@@ -1,3 +1,26 @@
+## cob_supported_robots (noetic) - 0.6.18-1
+
+The packages in the `cob_supported_robots` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic cob_supported_robots` on `Mon, 19 Feb 2024 15:41:58 -0000`
+
+The `cob_supported_robots` package was released.
+
+Version of package(s) in repository `cob_supported_robots`:
+
+- upstream repository: https://github.com/ipa320/cob_supported_robots.git
+- release repository: https://github.com/ipa320/cob_supported_robots-release.git
+- rosdistro version: `0.6.17-1`
+- old version: `0.6.17-1`
+- new version: `0.6.18-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## cob_supported_robots (noetic) - 0.6.17-1
 
 The packages in the `cob_supported_robots` repository were released into the `noetic` distro by running `/usr/bin/bloom-release cob_supported_robots --rosdistro noetic` on `Thu, 17 Nov 2022 10:21:09 -0000`
